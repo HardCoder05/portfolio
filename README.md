@@ -15,13 +15,13 @@ Para desplegar este proyecto en tu máquina local, sigue estos pasos:
 2. Clona el repositorio usando el comando:
 
     ```bash
-    git clone git@github.com:HardCoder05/portfolio-dev.git
+    git clone git@github.com:HardCoder05/portfolio.git
     ```
 
 3. Navega al directorio del proyecto:
 
     ```bash
-    cd portfolio-dev
+    cd portfolio
     ```
 
 4. Instala las dependencias:
